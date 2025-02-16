@@ -1,0 +1,19 @@
+default-timeout=2000
+
+background-color=#282828
+text-color=#ebdbb2
+border-color=#ebdbb2
+border-size=2
+border-radius=4
+layer=overlay
+
+[urgency=high]
+border-color=#cc241d
+
+[app-name="volume"]
+anchor=bottom-center
+outer-margin=0,0,100
+progress-color=#d79921
+text-color=#282828
+background-color=#a89984
+font=monospace 24

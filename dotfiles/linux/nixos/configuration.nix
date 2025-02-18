@@ -17,4 +17,5 @@ in
     ./modules/home-manager.nix
     ./modules/services.nix
   ];
+  powerManagement.cpuFreqGovernor = "performance";
 }

@@ -39,7 +39,7 @@ in {
          };
 
          targets = {
-           kitty.enable = false;
+           kitty.enable = true;
            neovim.enable = false;
            tmux.enable = false;
          };
@@ -74,6 +74,9 @@ in {
 
       home.stateVersion = "24.11";
     };
+ 
+
     backupFileExtension = "backup";
   };
+
 }

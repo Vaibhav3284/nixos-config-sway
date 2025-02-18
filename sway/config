@@ -73,7 +73,7 @@ exec swayidle -w \
     bindsym $mod+f11 reload
 
     #swaylock
-    bindsym $mod+l swaylock
+    bindsym $mod+o swaylock
 
 
     # Scroll through workspaces with mouse wheel

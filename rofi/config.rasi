@@ -1,1 +1,5 @@
-@theme "./themes/theme.rasi"
+//@theme "./themes/theme.rasi"
+
+//@theme "/home/accme/.config/rofi/themes/gruvbox-dmenu.rasi"
+
+@theme "/home/accme/.config/rofi/themes/theme.rasi"

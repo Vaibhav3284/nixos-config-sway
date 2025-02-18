@@ -14,10 +14,9 @@
     lua          # lua programming language
     fzf          # command-line fuzzy finder
     fastfetch    # system information tool
-    starship     # customizable shell prompt
     nemo         # file manager
-    yazi         # terminal file manager
     tmux         # terminal multiplexer
+    starship
     cmake        # cross-platform build system generator
     gnumake      # build automation tool
     bluez        # bluetooth protocol stack
@@ -28,7 +27,7 @@
     fd           # fast alternative to 'find'
     ripgrep      # fast alternative to grep
     unzip        # zip file extraction utility
-    btop         # resource monitor with graphs 
+    htop         # resource monitor with graphs 
     lm_sensors   # hardware monitoring utilities
     gsettings-desktop-schemas  # GSettings desktop schemas
     glib         # low-level core library for GNOME
@@ -44,6 +43,10 @@
     jellyfin-web
     jellyfin-ffmpeg
     transmission_4
+    wine
+    protonup
+    unrar
+    nemo-fileroller
     
 
     # sway
